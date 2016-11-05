@@ -1,9 +1,9 @@
 {
-  "name": "room-hygrothermograph",
+  "name": "mrtry-hubot",
   "version": "0.0.0",
   "private": true,
   "author": "mrtry",
-  "description": "Hygrothermograph at my home.",
+  "description": "''",
   "dependencies": {
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
